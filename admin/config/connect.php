@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect('52.6.114.59','diem','diem1234','diemtoy');
+$conn = mysqli_connect('localhost','thuanlv','123@123a','abc123');
 if(!$conn){
 	echo"ket noi that bai";
 }else{
